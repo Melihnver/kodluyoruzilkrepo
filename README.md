@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-Kodluyoruz GIT Eğitimi kapsamında açtığım ilk repo
+[Kodluyoruz](app.patika.dev) GIT Eğitimi kapsamında açtığım ilk repo
 ![image](https://user-images.githubusercontent.com/105201371/217906142-38df75fc-9ce8-4dc7-a0ca-5052ba014a65.png)
 
 ## Installation
