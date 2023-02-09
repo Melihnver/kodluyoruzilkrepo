@@ -8,7 +8,7 @@ Kodluyoruz GIT Eğitimi kapsamında açtığım ilk repo
 
 Öncelikle projeyi klonlayın (Buraya sizin reponuzdan aldığınız link gelecek)
 
-git clone https://github.com/melihnver/kodluyoruzilkrepo.git
+git clone https://github.com/Melihnver/kodluyoruzilkrepo.git
 
 ## Usage
 
